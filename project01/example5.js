@@ -1,0 +1,2 @@
+var country;
+country = "Pakistan";
